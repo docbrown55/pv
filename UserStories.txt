@@ -1,0 +1,42 @@
+
+
+person > voice command > computing device  <houndify>  control podcast software
+
+control podcast
+—list my podcasts
+—list my favorite podcasts
+
+—create nicknames for podcasts
+
+
+list unplayed episodes for podcast xyz
+
+control pandora
+
+———
+
+User Stories
+—————————
+Control a podcast player running on a desktop computer using voice
+—computer is a windows computer
+
+* Subscribe to a podcast using the keyboard and mouse
+* Issue commands to pod cast player using a hand held input mic, or a wearable mic.
+—first iteration ok to click a button to activate the mic
+— the user is free to walk around the room
+— range of the mic is within a room
+—- podcast app can hear user over running water
+—- first iteration, podcast player over computer speakers.  2nd iteration, podcast player over
+———bluetooth speaker
+—Central device takes commands from voice.  
+———The listening device (jarvis) takes voice commands and keyboard and mouse commands
+    and touch scrreen commands, and controls other devices to execute the commands. Like the 
+    Amazon echo, but better.
+— Use houndify to parse the voice commands.
+— 
+
+* Ask what podcasts are subscribed to using voice.  
+— Response is a  list on a monitor, ordered alphabetically
+
+* Ask what episodes are unplayed for podcast foo using voice.
+— Response is a list on a monitor, ordered chronologically
